@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+  <name>Template 1</name>
+  <code>f39803f7-df02-4169-93eb-7547fb8c961a</code>
+  <date>07/07/2010 11:47:37</date>
+  <legend-item>None</legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <device>web_1920</device>
+  <orientation>PORTRAIT</orientation>
+  <width>1920.0</width>
+  <height>1080.0</height>
+  <guides />
+  <item-group id="bf94ef7f-81bb-46a7-974e-8d24e2b82784" visible="true">
+    <style name="LnFCanvas">
+      <DimensionStyle width="1920.0" height="1080.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+    </style>
+  </item-group>
+  <LnFTemplate>
+    <style name="LnFTable">
+      <DimensionStyle width="199.0" height="199.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="true" bottomDisabled="true" leftDisabled="false" />
+      <TableStyle hSpacing="0" vSpacing="0" />
+      <TransparencyStyle value="0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFTableCell">
+      <DimensionStyle width="66.33" height="66.33" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="false" bottomDisabled="false" leftDisabled="true" />
+      <TransparencyStyle value="0" />
+      <LayoutStyle type="layoutVertical" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFTextTable">
+      <DimensionStyle width="599.0" height="119.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="true" bottomDisabled="true" leftDisabled="false" />
+      <TableStyle hSpacing="0" vSpacing="0" />
+      <TransparencyStyle value="0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFTextCell">
+      <DimensionStyle width="200.0" height="40.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="false" bottomDisabled="false" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFListadoCell">
+      <DimensionStyle width="212.0" height="37.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+      <TransparencyStyle value="0" />
+      <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFListadoCell">
+      <DimensionStyle width="212.0" height="37.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0.0" topWidth="0.0" rightWidth="0.0" bottomWidth="0.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TransparencyStyle value="0" />
+      <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFRectangle">
+      <DimensionStyle width="198.0" height="118.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFEllipse">
+      <DimensionStyle width="148.0" height="148.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle color="0r0g0b0a" style="solid" width="1.0" disabledBorder="false" />
+      <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFTriangle">
+      <DimensionStyle width="178.0" height="148.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle color="0r0g0b0a" style="solid" width="1.0" disabledBorder="false" />
+      <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFCallout">
+      <DimensionStyle width="178.0" height="148.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle color="0r0g0b0a" style="solid" width="1.0" disabledBorder="false" />
+      <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFRichText">
+      <DimensionStyle width="100.0" height="20.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="12.0" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFButton">
+      <DimensionStyle width="148.0" height="43.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="0r0g0b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TextStyle color="255r255g255b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFTextBox">
+      <DimensionStyle width="100.0" height="20.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="12.0" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFImage">
+      <DimensionStyle width="100.0" height="100.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TransparencyStyle value="0" />
+      <RotationStyle angle="0.0" />
+      <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFBrowser">
+      <DimensionStyle width="500.0" height="200.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <RotationStyle angle="0.0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFFlash">
+      <DimensionStyle width="500.0" height="200.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+    </style>
+    <style name="LnFWebsite">
+      <DimensionStyle width="500.0" height="200.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFMenu">
+      <DimensionStyle width="96.0" height="43.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TransparencyStyle value="0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFMenuItem">
+      <DimensionStyle width="68.0" height="27.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="464.0" top="652.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="10.5" height="17">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFAttributeForm">
+      <DimensionStyle width="298.0" height="43.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="15" bottom="0" right="15" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFSelect">
+      <DimensionStyle width="298.0" height="43.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="15" bottom="0" right="15" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFSelectionList">
+      <DimensionStyle width="148.0" height="78.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="2" left="8" bottom="2" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFSelectionGroup">
+      <DimensionStyle width="200.0" height="68.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="5" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFNativeDropDown">
+      <DimensionStyle width="178.0" height="26.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <EffectStyle />
+    </style>
+    <style name="LnFSeparationLine">
+      <DimensionStyle width="160.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TransparencyStyle value="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFNodeTree">
+      <DimensionStyle width="123.0" height="17.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="284.0" top="637.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="10.5" height="17">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFNavigationTree">
+      <DimensionStyle width="139.0" height="129.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="267.0" top="619.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TransparencyStyle value="0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFListado">
+      <DimensionStyle width="698.0" height="148.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <PijamaStyle>
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" pijama="oddColor" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" pijama="evenColor" />
+      </PijamaStyle>
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TransparencyStyle value="0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFDataGrid">
+      <DimensionStyle width="700.0" height="300.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TransparencyStyle value="0" />
+      <SpacingStyle horizontal="5" vertical="5" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFGridItemCell">
+      <DimensionStyle width="340.5" height="140.5" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+      <TransparencyStyle value="0" />
+      <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+      <BlendingStyle blend="Default" />
+    </style>
+    <style name="LnFRichText">
+      <DimensionStyle width="40.0" height="20.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="11.25" height="0">
+        <family>Arial</family>
+        <style name="Bold" weight="700" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFAttributeForm">
+      <DimensionStyle width="110.0" height="20.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+      <FontStyle size="10.5" height="0">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" stretch="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0.0" />
+      <MarginStyle top="0" left="0" bottom="0" right="0" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+    <style name="LnFPath">
+      <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BorderStyle color="0r0g0b0a" style="solid" width="1.0" disabledBorder="false" />
+      <TransparencyStyle value="0" />
+      <RotationStyle angle="0.0" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+      <SVGBackgroundStyle isSVG="true" bgColor="0r0g0b0a" hasColor="false" />
+      <StrokeStyle join="MITER" cap="SQUARE" />
+      <BlendingStyle blend="Default" />
+      <EffectStyle />
+    </style>
+  </LnFTemplate>
+  <parentCode />
+  <folderPosition>0</folderPosition>
+  <Events />
+</template>
