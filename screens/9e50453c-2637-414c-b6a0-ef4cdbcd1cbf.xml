@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>4</folderPosition>
+  <name>Mi cuenta</name>
+  <code>9e50453c-2637-414c-b6a0-ef4cdbcd1cbf</code>
+  <date>08/10/2022 19:06:39</date>
+  <legend-item>None</legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <device>web_1920</device>
+  <orientation>PORTRAIT</orientation>
+  <width>1920.0</width>
+  <height>1080.0</height>
+  <guides />
+  <item-group id="d3ca2e21-f1ca-4008-b887-17936336b6bf" visible="true">
+    <rectangle id="e1cfa370-4499-4868-b43d-4077fa8e3877" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="1918.000000000001" height="119.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b0a" disabledColor="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_1</modelID>
+    </rectangle>
+    <image id="9524d5af-6abc-4c9b-94bc-5dac79e1d309" hidden="false" onTop="false" visible="true">
+      <image-name>8a946dcd-b77c-472d-a2d3-d9c3814865b1.jpg</image-name>
+      <original-name>Fondo medio.jpg</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="1920.0" height="1080.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="0.0" top="144.99999999999966" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Fondo medio</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_4</modelID>
+    </image>
+    <rectangle id="d79932f3-ab4c-472f-b002-d0137db28dcf" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="1918.0000000000014" height="318.00000000000045" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="-1.1368683772161603E-12" top="1218.3813835319902" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b0a" disabledColor="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_3</modelID>
+    </rectangle>
+    <image id="22f7120d-8718-4e92-8174-eb6e9e720f25" hidden="false" onTop="false" visible="true">
+      <image-name>f6a877ff-48c5-4bd9-b989-0a00fbc2896d.png</image-name>
+      <original-name>Logo.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="297.3499999999992" height="57.29287090558745" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="27.999999999999545" top="23.85356454720636" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <info>Image</info>
+      <userID>Image</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_1</modelID>
+    </image>
+    <button id="9876788a-3f0e-401c-b4f0-feb7794c4075" hidden="false" onTop="false" visible="true">
+      <text>Mi cuenta</text>
+      <style name="LnFButton">
+        <DimensionStyle width="165.00000000000023" height="42.99999999999997" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1616.0" top="28.00000000000015" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="246r190g0b0a" disabledColor="false" />
+        <BorderStyle topRadius="22.0" rightRadius="22.0" bottomRadius="22.0" leftRadius="22.0" leftColor="246r190g0b0a" topColor="246r190g0b0a" rightColor="246r190g0b0a" bottomColor="246r190g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="3.0" topWidth="3.0" rightWidth="3.0" bottomWidth="3.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="9">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Mi cuenta</userID>
+      <modelID>Button_2</modelID>
+    </button>
+    <button id="23c40ef1-b786-44cf-84e7-250d6b22c112" hidden="false" onTop="false" visible="true">
+      <text>Quiniela</text>
+      <style name="LnFButton">
+        <DimensionStyle width="148.00000000000023" height="43.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1395.5153326034551" top="28.00000000000018" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b0a" disabledColor="false" />
+        <BorderStyle topRadius="22.0" rightRadius="22.0" bottomRadius="22.0" leftRadius="22.0" leftColor="38r208g124b0a" topColor="38r208g124b0a" rightColor="38r208g124b0a" bottomColor="38r208g124b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="3.0" topWidth="3.0" rightWidth="3.0" bottomWidth="3.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="217r217g214b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="13.5" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="8">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="217r217g214b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Quiniela</userID>
+      <modelID>Button_3</modelID>
+    </button>
+    <rectangle id="07c4efb9-8bda-451b-ab94-15589c3dd198" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="1917.4050639084594" height="45.99999999999994" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="2.199058119115989" top="96.99999999999989" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="246r190g0b0a" disabledColor="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 2</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_2</modelID>
+    </rectangle>
+    <table id="b7026255-b151-40b5-a584-764eff2a86ba" numColumns="8" numRows="1" content-editable="false" hidden="false" onTop="false" visible="true">
+      <cell id="1e62345c-0285-44c5-b56d-7e0e1106cbca" hScroll="0" vScroll="0" column="0" row="0" colspan="1" rowspan="1">
+        <userID>Cell 1</userID>
+        <modelID>Cell_9</modelID>
+        <item-group id="cc8d5fed-89f4-4b37-923b-31ea7530fa3a" visible="true">
+          <rich-text id="02b50c77-2551-45ba-a0d0-34ac2f16f5cc" hidden="false" onTop="false" visible="true">
+            <text>Inicio</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="59.01220703125" height="35.999999999999986" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+              <PositioningStyle left="9.499999999999545" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="6">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Inicio</userID>
+            <modelID>Paragraph_1</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="8ad7c60b-b6e7-46d1-9011-3c63e16d7d39" hScroll="0" vScroll="0" column="1" row="0" colspan="1" rowspan="1">
+        <userID>Cell 2</userID>
+        <modelID>Cell_10</modelID>
+        <item-group id="dafcf99b-b9a1-49b1-b332-e54e0ff22a41" visible="true">
+          <rich-text id="0561539a-5a05-4992-b589-eab3716daba3" hidden="false" onTop="false" visible="true">
+            <text>Participantes</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="99.4189453125" height="18.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+              <PositioningStyle left="6.46142768859886" top="1.4210854715202004E-14" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="13">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Participantes</userID>
+            <modelID>Paragraph_2</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="e09fb800-ff92-433f-b2b0-5d1dab4f306b" hScroll="0" vScroll="0" column="2" row="0" colspan="1" rowspan="1">
+        <userID>Cell 3</userID>
+        <modelID>Cell_11</modelID>
+        <item-group id="2fae7672-8035-45fb-88bc-29b13e4310ef" visible="true">
+          <rich-text id="e071f72e-e604-44a6-94b8-d950596473c3" hidden="false" onTop="false" visible="true">
+            <text>Precios</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="54.6826171875" height="18.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+              <PositioningStyle left="4.829927444458235" top="1.4210854715202004E-14" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="7">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Precios</userID>
+            <modelID>Paragraph_3</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="979a6465-7f55-45b1-ae1d-27ea015b09ec" hScroll="0" vScroll="0" column="3" row="0" colspan="1" rowspan="1">
+        <userID>Cell 4</userID>
+        <modelID>Cell_12</modelID>
+        <item-group id="a4e14598-1c42-497a-8980-fc0d1894bb8a" visible="true">
+          <rich-text id="54459817-12d3-4300-aa16-20afeb55640e" hidden="false" onTop="false" visible="true">
+            <text>Dinamica</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="70.18798828125" height="18.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+              <PositioningStyle left="6.329425811767578" top="1.4210854715202004E-14" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="8">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Dinamica</userID>
+            <modelID>Paragraph_4</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="17c0a439-a89b-430b-9d1f-3b9e066cb52c" hScroll="0" vScroll="0" column="4" row="0" colspan="1" rowspan="1">
+        <userID>Cell 5</userID>
+        <modelID>Cell_13</modelID>
+        <item-group id="911e1b16-e4f9-4cd3-9469-9833e7efaa16" visible="true">
+          <rich-text id="9bd90f06-3c1c-402a-905b-63f3a88b3022" hidden="false" onTop="false" visible="true">
+            <text>Sobre nosotros</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="113.59130859375" height="18.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+              <PositioningStyle left="6.848426818847656" top="1.4210854715202004E-14" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="14">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Sobre nosotros</userID>
+            <modelID>Paragraph_5</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="c60577c0-bc65-4aef-b74d-65373c2ca183" hScroll="0" vScroll="0" column="5" row="0" colspan="1" rowspan="1">
+        <userID>Cell 6</userID>
+        <modelID>Cell_14</modelID>
+        <item-group id="ab3edeb4-848c-4d4e-b4d5-7017c4a11285" visible="true">
+          <style name="LnFTableCell">
+            <DimensionStyle width="1.0929328032902257" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="91c36636-2da9-4892-9e87-f3d2ec667eb4" hScroll="0" vScroll="0" column="6" row="0" colspan="1" rowspan="1">
+        <userID>Cell 7</userID>
+        <modelID>Cell_15</modelID>
+        <item-group id="08211c0d-fe18-4413-873a-a27ebe993bc1" visible="true">
+          <rich-text id="5c09650e-1cd0-4fb2-9c0b-56cfe3684991" hidden="false" onTop="false" visible="true">
+            <text>Soporte</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="59.09912109375" height="18.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+              <PositioningStyle left="16.848426818847656" top="10.000000000000014" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="7">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Soporte</userID>
+            <modelID>Paragraph_6</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <cell id="6094b0ef-e32e-4340-a04e-28718435a0bb" hScroll="0" vScroll="0" column="7" row="0" colspan="1" rowspan="1">
+        <userID>Cell 8</userID>
+        <modelID>Cell_16</modelID>
+        <item-group id="d87f75c6-4787-4be8-800a-e605fd1ad737" visible="true">
+          <rich-text id="a853122c-f4d1-4682-b776-01073f7547c0" hidden="false" onTop="false" visible="true">
+            <text>Contacto</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="67.4853515625" height="18.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+              <PositioningStyle left="0.7940006256103516" top="1.4210854715202004E-14" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="0.0" topDisabled="true" rightDisabled="true" bottomDisabled="false" leftDisabled="true" />
+              <TextStyle color="19r30g41b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              <FontStyle size="11.25" height="0">
+                <family>Tahoma</family>
+                <style name="Bold" weight="700" italic="normal" stretch="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0.0" />
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+              <BlendingStyle blend="Default" />
+              <EffectStyle />
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="8">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.25" height="0">
+                    <family>Tahoma</family>
+                    <style name="Bold" weight="700" italic="normal" stretch="normal" />
+                  </FontStyle>
+                  <TextStyle color="19r30g41b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Contacto</userID>
+            <modelID>Paragraph_7</modelID>
+          </rich-text>
+          <style name="LnFTableCell">
+            <DimensionStyle width="14.129581028101395" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutHorizontal" hAlign="2" vAlign="2" majorSpacing="0" minorSpacing="6" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <BlendingStyle blend="Default" />
+          </style>
+        </item-group>
+      </cell>
+      <tableLineRow id="6a7610c1-84f6-4671-b940-50e726e60f76">
+        <style name="LnFTextBox">
+          <DimensionStyle width="0.0" height="100.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineRow>
+      <tableLineCol id="63f468aa-9787-4392-803b-22e373874815">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="52a857b1-688d-4dab-9a59-ca409f066bc2">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="6172013d-5199-43e6-9669-a183358f43d2">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="65e66db0-cf28-4b4e-9bd2-aa5b786de0d4">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="85b19c34-e82a-4760-bf8b-999209a25235">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="9afe28e3-eb11-4a1b-b592-417ea5927091">
+        <style name="LnFTextBox">
+          <DimensionStyle width="1.0929328032902257" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="8d5f091b-813b-4cfa-84d2-cd837ac56cc3">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <tableLineCol id="ba0ac3ce-7a7c-4768-be10-ce51c7acf5a3">
+        <style name="LnFTextBox">
+          <DimensionStyle width="14.129581028101395" height="0.0" widthType="percentage" heightType="percentage" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+          <BorderStyle leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="8.0" height="0">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" stretch="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0.0" />
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+          <BlendingStyle blend="Default" />
+          <EffectStyle />
+        </style>
+      </tableLineCol>
+      <style name="LnFTable">
+        <DimensionStyle width="914.9693347930906" height="60.5" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="972.0306652069096" top="90.74999999999983" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle leftColor="221r221g221b0a" topColor="221r221g221b0a" rightColor="221r221g221b0a" bottomColor="221r221g221b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TableStyle hSpacing="0" vSpacing="0" />
+        <TransparencyStyle value="0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <info>Basic menu</info>
+      <userID>Basic menu</userID>
+      <isDefault>false</isDefault>
+      <modelID>Table_1</modelID>
+    </table>
+    <image id="bfe7aeea-01d6-4655-b84f-f4ce239dacbb" hidden="false" onTop="false" visible="true">
+      <image-name>5d80dae6-c7e6-4ff8-aa66-52fad9a567b5.png</image-name>
+      <original-name>3135768.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="78.99999999999932" height="78.99999999999962" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1807.0000000000014" top="11.000000000000227" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>3135768</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_2</modelID>
+    </image>
+    <rectangle id="e752015c-2474-470b-a3e9-92eb2fdd0a2a" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="378.3320312499998" height="1145.3941965547097" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="69.47238604267022" top="212.36657206387787" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="246r190g0b0a" disabledColor="false" />
+        <BorderStyle topRadius="50.0" rightRadius="50.0" bottomRadius="50.0" leftRadius="50.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 5</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_5</modelID>
+    </rectangle>
+    <jpPath id="abf40de6-a27c-4a78-90c1-6f037a043b39" minPointx="-1147.447508984312" minPointy="-238.96691440987593" visualBoundsx="-1149.447509765625" visualBoundsy="-240.9669189453125" visualBoundswidth="1922.518310546875" visualBoundsheight="4.0" isClipping="false" hidden="false" onTop="false" visible="true">
+      <style name="LnFPath">
+        <DimensionStyle width="1918.5183517885243" height="1.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="-1.2867484855405564E-13" top="1310.8813835319909" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle color="246r190g0b0a" style="solid" width="3.0" disabledBorder="false" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <SVGBackgroundStyle isSVG="true" bgColor="0r0g0b0a" hasColor="false" />
+        <StrokeStyle join="MITER" cap="SQUARE" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <jpPathElements>
+        <jpPathElement type="MOVE" endpointType="STRAIGHT" radius="0.0" endPointx="-1147.447508984312" endPointy="-238.96691440987593" />
+        <jpPathElement type="LINE" endpointType="STRAIGHT" radius="0.0" endPointx="771.0708428042122" endPointy="-238.96691440987564" />
+      </jpPathElements>
+      <userID>Path 2</userID>
+      <isDefault>false</isDefault>
+      <modelID>Path_1</modelID>
+    </jpPath>
+    <image id="0565ff73-5c30-4141-b52e-19a4947b8fe8" hidden="false" onTop="false" visible="true">
+      <image-name>5d80dae6-c7e6-4ff8-aa66-52fad9a567b5.png</image-name>
+      <original-name>3135768.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="185.45385742187437" height="185.45385742187517" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="165.9114729567327" top="278.00000000000006" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>3135768</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_12</modelID>
+    </image>
+    <rich-text id="d2866d8f-8822-4684-8199-66983ba15477" hidden="false" onTop="false" visible="true">
+      <text>Juan Manuel Perez
+@JuanMan</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="283.1103515625" height="74.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="117.08322588641988" top="571.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="22.5" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="18">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="18" text-range-end="26">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Juan Manuel Perez@JuanMan</userID>
+      <modelID>Paragraph_12</modelID>
+    </rich-text>
+    <rich-text id="2daa8612-40ca-4361-bcb3-54696025e9e6" hidden="false" onTop="false" visible="true">
+      <text>¡Hey Crack! Bienvenido</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="313.6640625" height="33.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="101.80637041766988" top="503.0000000000002" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="20.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="22">
+          <style name="LnFTextRange">
+            <FontStyle size="20.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>¡Hey Crack! Bienvenido</userID>
+      <modelID>Paragraph_13</modelID>
+    </rich-text>
+    <jpPath id="40db24fa-e6c2-4810-b011-1d24443cc0f0" minPointx="-271.71103884049313" minPointy="-926.6010042153935" visualBoundsx="-273.2110290527344" visualBoundsy="-928.1010131835938" visualBoundswidth="383.44647216796875" visualBoundsheight="3.0" isClipping="false" hidden="false" onTop="false" visible="true">
+      <style name="LnFPath">
+        <DimensionStyle width="380.446491780413" height="1.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="69.47238604267008" top="684.5" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle color="0r0g0b0a" style="solid" width="2.0" disabledBorder="false" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <SVGBackgroundStyle isSVG="true" bgColor="0r0g0b0a" hasColor="false" />
+        <StrokeStyle join="MITER" cap="SQUARE" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <jpPathElements>
+        <jpPathElement type="MOVE" endpointType="STRAIGHT" radius="0.0" endPointx="-271.71103884049313" endPointy="-926.6010042153935" />
+        <jpPathElement type="LINE" endpointType="STRAIGHT" radius="0.0" endPointx="108.7354529399199" endPointy="-926.6010042153935" />
+      </jpPathElements>
+      <userID>Path 2</userID>
+      <isDefault>false</isDefault>
+      <modelID>Path_2</modelID>
+    </jpPath>
+    <rectangle id="e923d7f4-6193-46e3-a589-f715898922ac" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="378.33203124999926" height="73.00000000000011" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="69.4723860426704" top="719.4999999999993" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b70a" disabledColor="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 6</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_6</modelID>
+    </rectangle>
+    <rectangle id="b66dc374-408a-47ba-b8cf-52386ecbbdbe" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="8.000000000000114" height="73.00000000000011" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="69.47238604267011" top="719.4999999999993" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b0a" disabledColor="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 6</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_7</modelID>
+    </rectangle>
+    <rich-text id="acfa7580-f6e5-44e0-9466-c9f99fc359e8" hidden="false" onTop="false" visible="true">
+      <text>Información Personal</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="260.28515625" height="29.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="152.0000000000001" top="817.1933593749998" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="18.0" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="20">
+          <style name="LnFTextRange">
+            <FontStyle size="18.0" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Información Personal</userID>
+      <modelID>Paragraph_14</modelID>
+    </rich-text>
+    <rich-text id="3737901b-2407-4c57-a671-7841a90ea8de" hidden="false" onTop="false" visible="true">
+      <text>Método de pago</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="193.1953125" height="29.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="152.0000000000001" top="891.9762977385501" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="18.0" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="14">
+          <style name="LnFTextRange">
+            <FontStyle size="18.0" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Método de pago</userID>
+      <modelID>Paragraph_15</modelID>
+    </rich-text>
+    <image id="009b5c18-3b2c-46da-8fca-b3ad4dc704d5" hidden="false" onTop="false" visible="true">
+      <image-name>a4fb4ab8-2fe3-42ee-9ec8-28402813bf54.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="28.56587672710114" height="28.56587672710134" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="101.00535047292544" top="892.6933593749993" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 14</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_14</modelID>
+    </image>
+    <rectangle id="065ec660-f8a3-4203-a3f1-dfc75acfda2f" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="166.3611111111109" height="53.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="160.57122720002656" top="1050.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b0a" disabledColor="false" />
+        <BorderStyle topRadius="26.5" rightRadius="26.5" bottomRadius="26.5" leftRadius="26.5" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 8</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_8</modelID>
+    </rectangle>
+    <rich-text id="316d7eeb-c00b-45e8-a7f1-0cdb371bedf5" hidden="false" onTop="false" visible="true">
+      <text>CARTERA</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="117.90771484375" height="30.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="184.79792533370698" top="1061.5" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="246r190g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="18.75" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="7">
+          <style name="LnFTextRange">
+            <FontStyle size="18.75" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="246r190g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>CARTERA</userID>
+      <modelID>Paragraph_16</modelID>
+    </rich-text>
+    <rich-text id="11212f9e-e4f2-4049-a421-6ab6dd62c6fa" hidden="false" onTop="false" visible="true">
+      <text>Mis quinielas</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="156.5859375" height="29.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="152.00000000000017" top="968.2829383635506" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="18.0" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="13">
+          <style name="LnFTextRange">
+            <FontStyle size="18.0" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Mis quinielas</userID>
+      <modelID>Paragraph_17</modelID>
+    </rich-text>
+    <rich-text id="d7f5c455-55f7-4222-9738-93c33623f123" hidden="false" onTop="false" visible="true">
+      <text>Escritorio</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="114.66796875" height="29.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="152.0" top="741.4999999999994" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="18.0" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="10">
+          <style name="LnFTextRange">
+            <FontStyle size="18.0" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Escritorio</userID>
+      <modelID>Paragraph_18</modelID>
+    </rich-text>
+    <image id="4ea95060-279c-415f-bf03-d57a1451c2f3" hidden="false" onTop="false" visible="true">
+      <image-name>8004257d-ed5b-4139-9e0d-5e84cbac1c5d.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="28.55517578125017" height="28.55517578125034" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="101.01070094585089" top="741.7224121093743" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 13</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_15</modelID>
+    </image>
+    <image id="57d61eab-0a38-4f8b-a552-e001a4dc487e" hidden="false" onTop="false" visible="true">
+      <image-name>1276cc31-b18b-4f73-8c89-49742ec6cbac.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="28.55517578125017" height="28.55517578125" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="101.01070094585091" top="817.9157714843748" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 13</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_13</modelID>
+    </image>
+    <rectangle id="f5d61662-ff7e-4127-b918-c2b15b449a2e" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="1303.5000000000014" height="921.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="523.0000000000001" top="217.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b65a" disabledColor="false" />
+        <BorderStyle topRadius="50.0" rightRadius="50.0" bottomRadius="50.0" leftRadius="50.0" leftColor="38r208g124b0a" topColor="38r208g124b0a" rightColor="38r208g124b0a" bottomColor="38r208g124b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="10.0" topWidth="10.0" rightWidth="10.0" bottomWidth="10.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 9</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_9</modelID>
+    </rectangle>
+    <image id="d597f8a5-17d4-4c35-bd26-03c3ff1bed5e" hidden="false" onTop="false" visible="true">
+      <image-name>3e30b319-b3c8-4661-9a9d-a529131ef56c.png</image-name>
+      <original-name>724715.png</original-name>
+      <remote-path>/Users/usuarionuevo/Downloads/724715.png</remote-path>
+      <last-modified>1659890270975</last-modified>
+      <style name="LnFImage">
+        <DimensionStyle width="85.50000000000091" height="85.50000000000102" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1761.000000000001" top="1182.249999999999" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>724715</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_3</modelID>
+    </image>
+    <rich-text id="771b6b97-4a87-4385-8c23-0e2cfa0c50a8" hidden="false" onTop="false" visible="true">
+      <text>Escritorio</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="238.8916015625" height="61.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="1129.5773938693676" top="278.0000000000001" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="38r208g124b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="37.5" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="10">
+          <style name="LnFTextRange">
+            <FontStyle size="37.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="38r208g124b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Escritorio</userID>
+      <modelID>Paragraph_19</modelID>
+    </rich-text>
+    <rectangle id="4320ab1e-613a-49f9-b123-5182d1382589" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="379.1389788274105" height="175.59012713565585" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="722.0" top="422.2049364321719" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b0a" disabledColor="false" />
+        <BorderStyle topRadius="30.0" rightRadius="30.0" bottomRadius="30.0" leftRadius="30.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 10</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_10</modelID>
+    </rectangle>
+    <rich-text id="04f53b45-20eb-48ff-92c7-0fd88a344a63" hidden="false" onTop="false" visible="true">
+      <text>Información personal
+
+Gestiona toda tu información,
+mantenenla actualizada para
+acceder a todos los premios.</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="248.7998046875" height="122.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="828.0" top="440.49999999999983" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="17.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="21">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="21" text-range-end="22">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="22" text-range-end="108">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Información personalGesti</userID>
+      <modelID>Paragraph_20</modelID>
+    </rich-text>
+    <image id="467b0830-d74a-4166-b5b9-ba0b849891b0" hidden="false" onTop="false" visible="true">
+      <image-name>1276cc31-b18b-4f73-8c89-49742ec6cbac.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="67.63319476610263" height="68.0719713813109" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="745.0054725432383" top="440.5" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 13</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_17</modelID>
+    </image>
+    <rectangle id="82408e23-f224-4c71-9205-54eed89c9a0b" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="379.1389788274105" height="175.59012713565585" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1318.4406751193678" top="422.20493643217196" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b0a" disabledColor="false" />
+        <BorderStyle topRadius="30.0" rightRadius="30.0" bottomRadius="30.0" leftRadius="30.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 10</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_11</modelID>
+    </rectangle>
+    <rich-text id="0e44955a-6606-4203-9cde-a05641a732e9" hidden="false" onTop="false" visible="true">
+      <text>Método de Pago
+
+Asegurate de tener un método
+de pago actualizado para que
+no te pierdas ninguna quiniela.</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="245.654296875" height="131.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="1432.0" top="440.49999999999994" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="17.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="15">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="15" text-range-end="16">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="16" text-range-end="105">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Método de PagoAsegurate d</userID>
+      <modelID>Paragraph_21</modelID>
+    </rich-text>
+    <rectangle id="332b1cc5-4a95-4750-baad-565e7955ddf3" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="379.1389788274105" height="175.59012713565585" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="721.9999999999999" top="641.6882757732961" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b0a" disabledColor="false" />
+        <BorderStyle topRadius="30.0" rightRadius="30.0" bottomRadius="30.0" leftRadius="30.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 10</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_12</modelID>
+    </rectangle>
+    <rich-text id="01d5cd9c-ce35-413e-9e41-9f50d3c7f918" hidden="false" onTop="false" visible="true">
+      <text>Mis quinielas
+
+Revisa tus quinielas anteriores
+y los premios que has obtenido.</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="253.4765625" height="109.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="833.2617187499998" top="658.0000000000002" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="17.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="14">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="14" text-range-end="15">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="15" text-range-end="78">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Mis quinielasRevisa tus q</userID>
+      <modelID>Paragraph_22</modelID>
+    </rich-text>
+    <rectangle id="6859c9b1-9f37-4a9a-9716-73258a91e64a" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="379.1389788274107" height="175.59012713565585" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1318.5373548068683" top="632.6032322393434" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b0a" disabledColor="false" />
+        <BorderStyle topRadius="30.0" rightRadius="30.0" bottomRadius="30.0" leftRadius="30.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 10</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_13</modelID>
+    </rectangle>
+    <rich-text id="5a35a841-7ee7-4ad7-9ba5-4e7cdffbc3c4" hidden="false" onTop="false" visible="true">
+      <text>Cartera digital
+
+Revisa tus quinielas gratis,
+tu saldo disponible y tus
+premios, haz retiros y depositos.</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="258.3017578125" height="131.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="1425.67626953125" top="653.3291724756028" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="17.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="16">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="16" text-range-end="17">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="17" text-range-end="105">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Cartera digitalRevisa tus</userID>
+      <modelID>Paragraph_23</modelID>
+    </rich-text>
+    <image id="1e37a915-4d0b-47d1-b9b0-d958bd64af1b" hidden="false" onTop="false" visible="true">
+      <image-name>a4fb4ab8-2fe3-42ee-9ec8-28402813bf54.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="67.63319476610195" height="68.0719713813109" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1345.0669863368064" top="440.5" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 14</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_21</modelID>
+    </image>
+    <image id="2bba85e8-929c-4def-9cd5-b856709fbd98" hidden="false" onTop="false" visible="true">
+      <image-name>2de68845-406a-4426-a3f5-19f32d4d0f71.png</image-name>
+      <original-name>5052132.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="67.90114011332867" height="68.34165504879456" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="744.8714998696254" top="658.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>5052132</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_18</modelID>
+    </image>
+    <image id="353ebf8d-4437-4956-b7c0-dc45cdcca9e1" hidden="false" onTop="false" visible="true">
+      <image-name>cdd6f8dd-9cd7-4310-b03c-164ea1aeb180.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="67.90114011332867" height="68.34165504879434" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1344.933013663193" top="653.3291724756027" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 19</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_19</modelID>
+    </image>
+    <rectangle id="08a1807a-c8cf-43f1-94fb-062d7a556b53" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="379.1389788274105" height="175.59012713565596" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="722.0" top="879.4878747957227" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b0a" disabledColor="false" />
+        <BorderStyle topRadius="30.0" rightRadius="30.0" bottomRadius="30.0" leftRadius="30.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 10</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_14</modelID>
+    </rectangle>
+    <rich-text id="d25f3670-106f-482f-9f89-c3fa441e8d4a" hidden="false" onTop="false" visible="true">
+      <text>Membresía/Beneficios
+
+Gestiona tu membresía y revisa
+los beneficios que tienes por
+por ser miembro.</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="258.76123046875" height="131.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="823.019287109375" top="902.6132813833765" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="17.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="21">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="21" text-range-end="22">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="22" text-range-end="99">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Membresía/BeneficiosGesti</userID>
+      <modelID>Paragraph_24</modelID>
+    </rich-text>
+    <rectangle id="799f790b-f476-47b5-9b4e-59a3e5165e52" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="379.1389788274107" height="175.59012713565596" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1318.5373548068683" top="882.1598728643431" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="217r217g214b0a" disabledColor="false" />
+        <BorderStyle topRadius="30.0" rightRadius="30.0" bottomRadius="30.0" leftRadius="30.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 10</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_15</modelID>
+    </rectangle>
+    <rich-text id="4b6a1b93-6fbf-4e1a-a11a-0bb8946de640" hidden="false" onTop="false" visible="true">
+      <text>Contacto
+
+Estamos para ayudarte y hacer
+más increíble tu experiencia.
+Contactanos.</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="246.90234375" height="131.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="1425.6762695312498" top="902.6807023002476" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="17.25" height="0">
+          <family>Tahoma</family>
+          <style name="Bold" weight="700" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="9">
+          <style name="LnFTextRange">
+            <FontStyle size="17.25" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="9" text-range-end="10">
+          <style name="LnFTextRange">
+            <FontStyle size="22.5" height="0">
+              <family>Tahoma</family>
+              <style name="Bold" weight="700" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+        <text-range text-range-start="10" text-range-end="82">
+          <style name="LnFTextRange">
+            <FontStyle size="13.5" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>ContactoEstamos para ayud</userID>
+      <modelID>Paragraph_25</modelID>
+    </rich-text>
+    <image id="2e49f66b-aded-4d60-81a9-36302b7c6671" hidden="false" onTop="false" visible="true">
+      <image-name>232d5e81-ae6d-4789-86db-54d2edb845d5.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="67.76716743971474" height="68.20681321505242" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1345.0" top="902.6807023002476" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 23</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_23</modelID>
+    </image>
+    <image id="74eb0618-00c3-461d-bdad-9832e68c6333" hidden="false" onTop="false" visible="true">
+      <image-name>e6a49cb7-45a5-4a9a-88c4-19d9fb6a8b6f.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="67.90114011332855" height="68.34165504879456" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="744.8714998696254" top="902.6132813833765" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 20</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_20</modelID>
+    </image>
+    <rectangle id="8219090c-e318-47e5-99f1-f8d87ff069b9" auto-fit="false" hidden="false" onTop="false" visible="true">
+      <text />
+      <style name="LnFRectangle">
+        <DimensionStyle width="1918.0" height="225.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="2.8410607200157756E-13" top="1311.3813835319909" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="19r30g41b0a" disabledColor="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="false" rightDisabled="false" bottomDisabled="false" leftDisabled="false" />
+        <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="11.25" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="11.25" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle 1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Rectangle_4</modelID>
+    </rectangle>
+    <image id="f6ea91e8-466f-490e-8709-de47807d5133" hidden="false" onTop="false" visible="true">
+      <image-name>672194f5-bff2-4503-bcf6-46140354c15f.png</image-name>
+      <original-name>Logo.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="239.80604591515294" height="47.56153243983886" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1564.1497114174242" top="1345.904864648198" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Logo</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_5</modelID>
+    </image>
+    <image id="22120541-1724-4988-8a88-8ea817de9785" hidden="false" onTop="false" visible="true">
+      <image-name>b617f7e0-43d9-4c69-b8d9-3a9f489f378e.png</image-name>
+      <original-name>Fb_1.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="41.51076381401822" height="41.09216787639775" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1530.9617527586256" top="1424.8041269252788" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Fb_1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_6</modelID>
+    </image>
+    <image id="c32189cb-efd9-4a26-8fa1-c042c2b89e9e" hidden="false" onTop="false" visible="true">
+      <image-name>cc9c7b9f-1c21-4c0f-8f5e-ded083728786.png</image-name>
+      <original-name>Ig_1.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="41.510763814018446" height="41.09216787639821" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1597.4783080730522" top="1425.0078169978985" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Ig_1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_7</modelID>
+    </image>
+    <image id="2364930b-a5be-48b1-ac1b-cdb2ef02fde2" hidden="false" onTop="false" visible="true">
+      <image-name>238c0a4b-a98a-4da4-b7fa-a12c8d19cab9.png</image-name>
+      <original-name>Tw_1.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="41.510763814018446" height="41.09216787639798" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1663.9889402906929" top="1425.0078169978985" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Tw_1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_8</modelID>
+    </image>
+    <image id="402f79c8-5926-4149-b239-09f4dad36f7d" hidden="false" onTop="false" visible="true">
+      <image-name>068e721f-04ce-4e74-97f3-72d6a4af409a.png</image-name>
+      <original-name>YouTube.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="41.09216787639798" height="41.09216787639798" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1730.1542953459098" top="1425.0078169978985" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>YouTube</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_9</modelID>
+    </image>
+    <image id="8f12170f-7671-4823-b838-e72648864abf" hidden="false" onTop="false" visible="true">
+      <image-name>5fa3ea04-fdf6-4d5f-a8c8-b4770c8b8fe5.png</image-name>
+      <original-name>TikTok.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="41.09216787639798" height="41.09216787639798" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1796.0515481149773" top="1424.9059719615886" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>TikTok</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_10</modelID>
+    </image>
+    <image id="5e05b933-e19a-4092-a06f-8aff54615aa2" hidden="false" onTop="false" visible="true">
+      <image-name>5c72261b-5e93-4f83-86ba-98ab2e5fb70e.png</image-name>
+      <original-name>1.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="175.193351788523" height="80.24122982680433" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="1.000000000000739" top="1365.7607686185886" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>1</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_11</modelID>
+    </image>
+    <rich-text id="b31b152e-9b28-470d-b09b-64e6dbbf8f1f" hidden="false" onTop="false" visible="true">
+      <text>© Todos los Derechos Reservados CRACK&amp;apos;S </text>
+      <style name="LnFRichText">
+        <DimensionStyle width="392.24609375" height="24.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="744.2646484375003" top="1495.3813835319909" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="246r190g0b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="15.0" height="0">
+          <family>Tahoma</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="40">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="246r190g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>© Todos los Derechos Rese</userID>
+      <modelID>Paragraph_8</modelID>
+    </rich-text>
+    <rich-text id="de924352-1e68-46f4-9829-82f8fe278f61" hidden="false" onTop="false" visible="true">
+      <text>Quiniela
+Wallet
+Ranking
+Contacto</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="77.98828125" height="96.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="472.73742131193166" top="1357.8813835319904" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="217r217g214b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="15.0" height="0">
+          <family>Tahoma</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="32">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="217r217g214b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>QuinielaWalletRankingCont</userID>
+      <modelID>Paragraph_9</modelID>
+    </rich-text>
+    <rich-text id="96ea800a-c8d9-42e5-aed8-e29eb7923e8b" hidden="false" onTop="false" visible="true">
+      <text>Sobre nosotros
+Aviso de privacidad
+Términos y condiciones
+Aviso Legal</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="206.30859375" height="96.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="1114.7530463119328" top="1358.0024247612473" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="217r217g214b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="15.0" height="0">
+          <family>Tahoma</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="69">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="217r217g214b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Sobre nosotrosAviso de pr</userID>
+      <modelID>Paragraph_10</modelID>
+    </rich-text>
+    <rich-text id="876dd081-ff66-4780-8ccb-e4129e5570a3" hidden="false" onTop="false" visible="true">
+      <text>Soporte
+Participantes
+Dinamica
+Precios</text>
+      <style name="LnFRichText">
+        <DimensionStyle width="112.63671875" height="96.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" autofit="true" />
+        <PositioningStyle left="789.4001204176699" top="1358.0024247612473" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TextStyle color="217r217g214b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+        <FontStyle size="15.0" height="0">
+          <family>Tahoma</family>
+          <style name="Regular" weight="400" italic="normal" stretch="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="38">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="0">
+              <family>Tahoma</family>
+              <style name="Regular" weight="400" italic="normal" stretch="normal" />
+            </FontStyle>
+            <TextStyle color="217r217g214b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>SoporteParticipantesDinam</userID>
+      <modelID>Paragraph_11</modelID>
+    </rich-text>
+    <image id="7357bad6-e8fa-4e54-804d-b9a77e5d6d59" hidden="false" onTop="false" visible="true">
+      <image-name>bbfe6102-fca9-409c-bcba-1b91c228e6ce.png</image-name>
+      <original-name>Quinielas.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="28.56587672710114" height="28.565876727101113" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="101.00535047292539" top="969.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0.0" rightRadius="0.0" bottomRadius="0.0" leftRadius="0.0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" topDisabled="true" rightDisabled="true" bottomDisabled="true" leftDisabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+        <BlendingStyle blend="Default" />
+        <EffectStyle />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Quinielas</userID>
+      <isDefault>false</isDefault>
+      <modelID>Image_16</modelID>
+    </image>
+    <style name="LnFCanvas">
+      <DimensionStyle width="1920.0" height="1536.3813835319909" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+    </style>
+  </item-group>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <note />
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <Events>
+    <event id="9876788a-3f0e-401c-b4f0-feb7794c4075" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="1a822270-b16b-41e0-be21-c8fe254d8e8a">Log in</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="23c40ef1-b786-44cf-84e7-250d6b22c112" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="478cd210-661e-4fc6-ba91-40bdc90630ff">Quiniela</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="02b50c77-2551-45ba-a0d0-34ac2f16f5cc" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>02b50c77-2551-45ba-a0d0-34ac2f16f5cc</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="02b50c77-2551-45ba-a0d0-34ac2f16f5cc" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+    <event id="0561539a-5a05-4992-b589-eab3716daba3" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>0561539a-5a05-4992-b589-eab3716daba3</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="0561539a-5a05-4992-b589-eab3716daba3" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+    <event id="e071f72e-e604-44a6-94b8-d950596473c3" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>e071f72e-e604-44a6-94b8-d950596473c3</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="e071f72e-e604-44a6-94b8-d950596473c3" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+    <event id="54459817-12d3-4300-aa16-20afeb55640e" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>54459817-12d3-4300-aa16-20afeb55640e</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="54459817-12d3-4300-aa16-20afeb55640e" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+    <event id="9bd90f06-3c1c-402a-905b-63f3a88b3022" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>9bd90f06-3c1c-402a-905b-63f3a88b3022</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="9bd90f06-3c1c-402a-905b-63f3a88b3022" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+    <event id="5c09650e-1cd0-4fb2-9c0b-56cfe3684991" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>5c09650e-1cd0-4fb2-9c0b-56cfe3684991</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="5c09650e-1cd0-4fb2-9c0b-56cfe3684991" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+    <event id="a853122c-f4d1-4682-b776-01073f7547c0" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="parallel" delayAction="0">
+            <items>
+              <item>a853122c-f4d1-4682-b776-01073f7547c0</item>
+            </items>
+            <style>
+              <TextStyle color="0r0g0b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="a853122c-f4d1-4682-b776-01073f7547c0" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateURL execType="serial" delayAction="0">
+            <url>#</url>
+            <type>window</type>
+          </navigateURL>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
